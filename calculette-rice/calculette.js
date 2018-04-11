@@ -16,7 +16,7 @@ var listePrix
 
  listePrix = item + ":" + prix
 
- if ( > 25) {
+ if (prix > 25) {
   "Merci de financer mon abonnement PlayStation Plus!!!"
 } else {
  "Merci et bonne journée!!"
